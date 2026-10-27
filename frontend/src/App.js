@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import { Search, Plus, Edit, Trash2, RefreshCw, UserCheck } from 'lucide-react';
 
-const API_BASE_URL = process.env.REACT_APP_API_URL || 'http://localhost:5000/api';
+const API_BASE_URL = process.env.REACT_APP_API_URL || 'https://backend-234232.onrender.com/api';
 
 function App() {
   const [employees, setEmployees] = useState([]);
