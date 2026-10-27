@@ -40,3 +40,6 @@ Frontend:
 - **Render Backend API:** [https://api-234232.onrender.com](https://api-234232.onrender.com)
 - **Render Frontend Web:** [https://web-234232.onrender.com](https://web-234232.onrender.com)
 - **MongoDB Atlas Database:** 234232_NguyenQuocSy
+
+## Docker Hub Backend Repository
+- Link Docker Image Backend: https://hub.docker.com/r/s234232/backend
