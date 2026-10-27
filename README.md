@@ -8,4 +8,4 @@
 3. Link_Docker_Frontend: https://hub.docker.com/r/s234232/frontend
 4. Link_Render_App: https://web-234232.onrender.com
 5. Link_Render_API: https://backend-234232.onrender.com/api/employees
-6. Link_Data_MongoDB: https://cloud.mongodb.com
+6. Link_Data_MongoDB: mongodb+srv://<db_username>:<db_password>@cluster0.5bdp3bp.mongodb.net/
