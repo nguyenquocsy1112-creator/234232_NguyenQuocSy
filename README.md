@@ -43,3 +43,6 @@ Frontend:
 
 ## Docker Hub Backend Repository
 - Link Docker Image Backend: https://hub.docker.com/r/s234232/backend
+
+## Docker Hub Frontend Repository
+- Link Docker Image Frontend: https://hub.docker.com/r/s234232/frontend
